@@ -151,7 +151,7 @@ with st.sidebar:
 
 if not df.empty:
     st.markdown(""" 
-        <h1>Bact Tracking !</h1>  
+        <h1>BactTrack !</h1>  
         <br>""",unsafe_allow_html=True)
     
     st.markdown("""
