@@ -1,0 +1,144 @@
+Isolate Year,Sample,ST,CC,Serogroup,PorA_VR1,PorA_VR2,NHBA_peptide,fHbp_peptide,Bexero cross reactivity,Trumenba cross reactivity,Source Region
+2004,NM1,4983,ST-103 complex,B,5-1,10-4,1299,30,insufficient data,cross-reactive,Jerusalem
+2005,NM2,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Tel Aviv-Yafo
+2006,NM3,32,ST-32 complex,B,7,16,1300,1,exact match,cross-reactive,Haifa
+2007,NM4,13670,ST-41-44 complex,B,22,14-6,43,654,insufficient data,insufficient data,Rishon LeẔiyyon
+2008,NM5,12898,ST-167 complex,Y,5-1,10-8,9,23,insufficient data,cross-reactive,Petaẖ Tiqwa
+2009,NM6,6150,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,insufficient data,Ashdod
+2010,NM7,11,ST-11 complex,W,5,2,96,9,cross-reactive,insufficient data,Netanya
+2011,NM8,6150,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Beersheba
+2012,NM9,162,ST-162 complex,B,22,14,20,235,cross-reactive,insufficient data,Bené Beraq
+2013,NM10,12899,ST-18 complex,B,5-2,10,6,37,cross-reactive,insufficient data,Holon
+2014,NM11,32,ST-32 complex,B,7,16,3,1,exact match,cross-reactive,Ramat Gan
+2015,NM12,1655,ST-23 complex,B,5-1,10-1,7,94,insufficient data,insufficient data,Bat Yam
+2016,NM13,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Ashqelon
+2011,NM14,23,ST-23 complex,Y,5-2,10-1,7,25,insufficient data,cross-reactive,Reẖovot
+2012,NM15,32,ST-32 complex,B,7-2,13-1,3,256,insufficient data,insufficient data,Bet Shemesh
+2013,NM16,11,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Kefar Sava
+2014,NM17,23,ST-23 complex,W+Y,5-1,2-2,8,25,insufficient data,cross-reactive,Herẕliyya
+2015,NM18,13077,ST-41-44 complex,C,7-4,15,29,19,insufficient data,cross-reactive,Nazareth
+2016,NM19,35,ST-35 complex,B,22-1,14,21,16,insufficient data,cross-reactive,Ra‘ananna
+2017,NM20,1655,ST-23 complex,W+Y,5-1,10-1,7,94,insufficient data,insufficient data,Ramla
+2018,NM21,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Givatayim
+2019,NM22,7152,ST-1572 complex,B,7-12,14,20,13,insufficient data,cross-reactive,Hod HaSharon
+2020,NM23,10466,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Qiryat Ata
+2021,NM24,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Rosh Ha‘Ayin
+2022,NM25,1157,ST-1157 complex,E,21-7,16,114,13,insufficient data,cross-reactive,Umm el Faḥm
+2023,NM26,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Nes Ẕiyyona
+2004,NM27,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,El‘ad
+2005,NM28,13186,null,B,5-1,10-4,20,16,insufficient data,cross-reactive,Ramat HaSharon
+2006,NM29,13591,null,,0,0,589,1095,insufficient data,insufficient data,Karmiel
+2007,NM30,32,ST-32 complex,B,7,16,3,1182,insufficient data,insufficient data,Qiryat Ono
+2008,NM31,23,ST-23 complex,Y,5-1,10-4,7,25,insufficient data,cross-reactive,Ben Zakkay
+2009,NM32,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Qiryat Bialik
+2010,NM33,11,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Or Yehuda
+2011,NM34,207,ST-41-44 complex,B,22,14-6,43,1148,insufficient data,insufficient data,Shefar‘am
+2012,NM35,162,ST-162 complex,B,22,14,20,21,insufficient data,cross-reactive,Yehud
+2013,NM36,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Giv‘at Shemu’él
+2014,NM37,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Gedera
+2015,NM38,1655,ST-23 complex,Y,5-1,10-1,7,25,insufficient data,cross-reactive,Eṭ Ṭīra
+2016,NM39,8761,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Gan Yavne
+2011,NM40,1655,ST-23 complex,Y,5-1,10-1,7,25,insufficient data,cross-reactive,Kafr Qāsim
+2012,NM41,8955,ST-213 complex,B,22,14,18,31,none,insufficient data,Qalansuwa
+2013,NM42,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Hadera
+2014,NM43,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Modi‘in Makkabbim Re‘ut
+2015,NM44,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Lod
+2016,NM45,162,ST-162 complex,B,22,14,20,235,insufficient data,insufficient data,Rahat
+2017,NM46,35,ST-35 complex,B,22-1,14,21,495,insufficient data,insufficient data,Nahariyya
+2018,NM47,32,ST-32 complex,B,7-2,16,3,1183,insufficient data,insufficient data,Eilat
+2019,NM48,1572,ST-1572 complex,B,7-12,14,20,13,insufficient data,cross-reactive,‘Akko
+2020,NM49,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Afula
+2021,NM50,7254,ST-174 complex,B,5-1,10-37,20,1148,insufficient data,insufficient data,Tiberias
+2022,NM51,32,ST-32 complex,B,7,16,3,1183,insufficient data,insufficient data,Jerusalem
+2023,NM52,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Jerusalem
+2011,NM53,5105,ST-41-44 complex,B,21,15,2,133,insufficient data,insufficient data,Jerusalem
+2011,NM54,1768,null,B,21,4,53,21,exact match,cross-reactive,Jerusalem
+2022,NM55,213,ST-213 complex,B,22,14,18,45,insufficient data,exact match,Jerusalem
+2022,NM56,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Jerusalem
+2022,NM57,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Jerusalem
+2011,NM58,35,ST-35 complex,B,22-1,14,21,16,insufficient data,cross-reactive,Jerusalem
+2011,NM59,14202,ST-32 complex,B,7,16,3,1,exact match,cross-reactive,Jerusalem
+2022,NM60,32,ST-32 complex,B,7-2,13-9,3,1184,insufficient data,insufficient data,Jerusalem
+2022,NM61,14203,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Jerusalem
+2022,NM62,162,ST-162 complex,B,22,14,20,21,insufficient data,cross-reactive,Jerusalem
+2011,NM63,32,ST-32 complex,B,7,16,3,105,insufficient data,insufficient data,Unknown
+2011,NM64,8204,ST-18 complex,B,5-3,2-16,6,37,cross-reactive,insufficient data,Unknown
+2022,NM65,8204,ST-18 complex,B,5-3,2-16,6,37,cross-reactive,insufficient data,Unknown
+2022,NM66,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Haifa
+2022,NM67,35,ST-35 complex,B,22-1,14,21,16,insufficient data,cross-reactive,Rishon LeẔiyyon
+2013,NM68,14372,ST-41-44 complex,B,22,14-6,43,1205,insufficient data,insufficient data,Tel Aviv-Yafo
+2014,NM69,14373,ST-23 complex,Y,5-1,10-1,7,1206,insufficient data,insufficient data,Haifa
+2015,NM70,11,ST-11 complex,W,5,2,96,9,cross-reactive,insufficient data,Rishon LeẔiyyon
+2016,NM71,11,ST-11 complex,W,5,2,96,9,cross-reactive,insufficient data,Tel Aviv-Yafo
+2017,NM72,7152,ST-1572 complex,B,7-12,14,20,13,insufficient data,cross-reactive,Haifa
+2018,NM73,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Rishon LeẔiyyon
+2013,NM74,23,ST-23 complex,Y,5-1,2-2,8,1216,insufficient data,insufficient data,Tel Aviv-Yafo
+2014,NM75,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Haifa
+2015,NM76,7152,ST-1572 complex,B,7-36,0,20,13,insufficient data,cross-reactive,Rishon LeẔiyyon
+2016,NM77,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Tel Aviv-Yafo
+2011,NM78,23,ST-23 complex,Y,5-1,10-4,7,25,insufficient data,cross-reactive,Tel Aviv-Yafo
+2012,NM79,11,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Tel Aviv-Yafo
+2013,NM80,14485,null,B,5-1,10-4,34,83,insufficient data,insufficient data,Tel Aviv-Yafo
+2014,NM81,2942,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Tel Aviv-Yafo
+2015,NM82,23,ST-23 complex,B,5-1,2-2,6,25,none,cross-reactive,Tel Aviv-Yafo
+2016,NM83,162,ST-162 complex,B,22,14,20,235,insufficient data,insufficient data,Tel Aviv-Yafo
+2017,NM84,7152,ST-1572 complex,B,7-12,14,20,13,insufficient data,cross-reactive,Tel Aviv-Yafo
+2018,NM85,207,ST-41-44 complex,B,22,14-6,239,152,insufficient data,insufficient data,Tel Aviv-Yafo
+2019,NM86,1768,null,Y,21,4,53,119,exact match,insufficient data,Tel Aviv-Yafo
+2020,NM87,23,ST-23 complex,W+Y,5-1,2-2,8,25,insufficient data,cross-reactive,Tel Aviv-Yafo
+2021,NM88,2942,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Tel Aviv-Yafo
+2022,NM89,14806,ST-41-44 complex,B,22,14-6,43,474,insufficient data,insufficient data,Tel Aviv-Yafo
+2023,NM90,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Tel Aviv-Yafo
+2011,NM91,32,ST-32 complex,B,7,16,3,1183,insufficient data,insufficient data,Tel Aviv-Yafo
+2011,NM92,32,ST-32 complex,B,7-11,16-26,3,30,insufficient data,cross-reactive,Tel Aviv-Yafo
+2022,NM93,3582,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Tel Aviv-Yafo
+2022,NM94,1655,ST-23 complex,Y,5-1,10-1,7,25,insufficient data,cross-reactive,Holon
+2023,NM95,10620,ST-175 complex,,22-11,15-25,9,151,insufficient data,insufficient data,Ramat Gan
+2023,NM96,1655,ST-23 complex,Y,5-1,10-1,7,24,insufficient data,insufficient data,Bat Yam
+2023,NM97,35,ST-35 complex,B,22-1,14,21,16,insufficient data,cross-reactive,Ashqelon
+2013,NM98,15140,ST-11 complex,B,5,2,29,22,cross-reactive,insufficient data,Reẖovot
+2014,NM99,35,ST-35 complex,B,22-1,14,21,15,cross-reactive,cross-reactive,Bet Shemesh
+2015,NM100,2942,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Kefar Sava
+2016,NM101,35,ST-35 complex,B,22-1,14,21,15,cross-reactive,cross-reactive,Herẕliyya
+2011,NM102,1655,ST-23 complex,W+Y,5-1,10-1,7,94,insufficient data,insufficient data,Holon
+2012,NM103,35,ST-35 complex,B,22-1,14,21,15,cross-reactive,cross-reactive,Ramat Gan
+2013,NM104,1655,ST-23 complex,W+Y,5-1,10-1,7,94,insufficient data,insufficient data,Bat Yam
+2014,NM105,10651,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Ashqelon
+2015,NM106,175,ST-175 complex,,22-11,15-64,9,321,insufficient data,insufficient data,Reẖovot
+2016,NM107,7780,ST-32 complex,B,7-2,16,3,1299,insufficient data,insufficient data,Bet Shemesh
+2017,NM108,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Kefar Sava
+2018,NM109,35,ST-35 complex,B,22-1,14,21,16,insufficient data,cross-reactive,Herẕliyya
+2019,NM110,15592,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Reẖovot
+2020,NM111,7780,ST-32 complex,B,7-2,16,3,1299,insufficient data,insufficient data,Bet Shemesh
+2013,NM112,162,ST-162 complex,B,22,14,21,235,insufficient data,insufficient data,Kefar Sava
+2014,NM113,1117,ST-1117 complex,,18-1,30,239,21,insufficient data,cross-reactive,Herẕliyya
+2015,NM114,7152,ST-1572 complex,B,7-36,14,20,1327,insufficient data,insufficient data,Reẖovot
+2016,NM115,162,ST-162 complex,B,22,14,20,235,insufficient data,insufficient data,Bet Shemesh
+2011,NM116,7152,ST-1572 complex,B,7-36,14,20,13,insufficient data,cross-reactive,Kefar Sava
+2012,NM117,409,ST-41-44 complex,B,18-1,34,2,19,exact match,cross-reactive,Herẕliyya
+2013,NM118,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Reẖovot
+2014,NM119,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Bet Shemesh
+2015,NM120,23,ST-23 complex,Y,5-2,10-1,7,25,insufficient data,cross-reactive,Kefar Sava
+2016,NM121,2942,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Herẕliyya
+2017,NM122,6765,ST-213 complex,B,22,14,115,45,cross-reactive,exact match,Reẖovot
+2018,NM123,35,ST-35 complex,B,22-1,14,21,245,insufficient data,insufficient data,Bet Shemesh
+2019,NM124,32,ST-32 complex,B,7,16,3,105,insufficient data,insufficient data,Kefar Sava
+2020,NM125,6871,ST-32 complex,B,7-2,16,3,394,insufficient data,insufficient data,Jerusalem
+2014,NM126,23,ST-23 complex,W+Y,5-1,2-68,6,25,none,cross-reactive,Jerusalem
+2015,NM127,207,ST-41-44 complex,B,22,14-6,43,152,insufficient data,insufficient data,Jerusalem
+2014,NM128,2942,ST-11 complex,W,5,2,29,0,cross-reactive,insufficient data,Jerusalem
+2015,NM129,162,ST-162 complex,B,22,14,21,235,exact match,cross-reactive,Jerusalem
+2016,NM130,41,ST-41-44 complex,B,7-2,4,2,14,cross-reactive,insufficient data,Jerusalem
+2017,NM131,2942,ST-11 complex,W,5,2,29,22,insufficient data,insufficient data,Jerusalem
+2012,NM132,15904,null,B,22,14,669,18,insufficient data,cross-reactive,Jerusalem
+2013,NM133,1655,ST-23 complex,Y,5-1,10-1,7,25,insufficient data,insufficient data,Jerusalem
+2014,NM134,35,ST-35 complex,B,22-1,14,21,1376,cross-reactive,insufficient data,Jerusalem
+2015,NM135,2942,ST-11 complex,W,5,2,29,1148,insufficient data,insufficient data,Jerusalem
+2016,NM136,12231,ST-23 complex,Y,5-1,10-105,8,104,none,cross-reactive,Jerusalem
+2017,NM137,23,ST-23 complex,Y,5-1,2-2,6,25,insufficient data,cross-reactive,Jerusalem
+2018,NM138,7152,ST-1572 complex,B,7-36,14,20,13,cross-reactive,exact match,Jerusalem
+2019,NM139,6765,ST-213 complex,B,22,14,115,45,cross-reactive,exact match,Jerusalem
+2020,NM140,2942,ST-11 complex,W,5,2,29,22,cross-reactive,insufficient data,Shefar‘am
+2020,NM141,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Yehud
+2020,NM142,23,ST-23 complex,Y,5-1,2-2,8,25,insufficient data,cross-reactive,Giv‘at Shemu’él
+2020,NM143,60,ST-60 complex,E,5,2,24,13,insufficient data,cross-reactive,Gedera
