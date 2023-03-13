@@ -1,3 +1,6 @@
+# BACTRACK
+# by David Maimoun
+# deployed 13.03.23
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -405,3 +408,6 @@ if not df.empty:
 
     number_of_result = len(df)
     st.markdown(f':red[*Matchs: {number_of_result}*]')
+    st.markdown(f'<br><br>by David Maimoun')
+
+    
