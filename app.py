@@ -408,6 +408,6 @@ if not df.empty:
 
     number_of_result = len(df)
     st.markdown(f':red[*Matchs: {number_of_result}*]')
-    st.markdown(f'<br><br>by David Maimoun')
+    st.markdown(f'<br><br><p><i>By David Maimoun</i></p>',unsafe_allow_html=True)
 
     
